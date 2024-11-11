@@ -3,4 +3,6 @@ class A{
     private int y;
     private int z;
 
+    int z;
+
 }
